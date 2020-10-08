@@ -5,12 +5,14 @@
     font-weight: lighter;
     text-align:center;
     top:-15px;
+    background-color:lightsalmon;
 }
 table{
     font-family: 'Secular One', sans-serif;
 }
 .jour{
     text-align:center;
+    background-color: lightsalmon;
 }
 .titre{
     border:10px;
