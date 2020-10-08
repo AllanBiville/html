@@ -1,0 +1,17 @@
+.time {
+    border:10px;
+    vertical-align: top;
+    position: relative;
+    font-weight: lighter;
+    text-align:center;
+    top:-15px;
+}
+table{
+    font-family: 'Secular One', sans-serif;
+}
+.jour{
+    text-align:center;
+}
+.titre{
+    border:10px;
+}
