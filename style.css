@@ -4,16 +4,52 @@
     position: relative;
     font-weight: lighter;
     text-align:center;
-    top:-15px;
-    background-color:lightsalmon;
+    top:-17px;
+    background-color:#F3F781;
 }
 table{
     font-family: 'Secular One', sans-serif;
+    background-color:lightgrey;
+    border-collapse:collapse;
+    text-align:center;
 }
 .jour{
     text-align:center;
-    background-color: lightsalmon;
+    background-color: #F3F781;
 }
 .titre{
     border:10px;
+}
+.Anglais{
+    background-color:lightgreen;
+}
+.Maths{
+    background-color:lightgreen;
+}
+.CultureEco{
+    background-color:lightgreen;
+}
+.Atpro{
+    background-color: #2E9AFE;
+}
+.Recreation{
+    background-color: white;
+}
+.Repas{
+    background-color: grey;
+}
+.Francais{
+    background-color:lightgreen;
+}
+.DS{
+    background-color: lightpink;
+}
+.Supdisposerv{
+    background-color: #2E9AFE;
+}
+.Cybersecurité{
+    background-color: #2E9AFE;
+}
+.Certification{
+    background-color: #2E9AFE;
 }
